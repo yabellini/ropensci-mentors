@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/yabellini/ropensci-mentors/materials.html</loc>
-    <lastmod>2023-03-16T18:19:01.521Z</lastmod>
+    <lastmod>2023-03-16T18:36:24.877Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/yabellini/ropensci-mentors/schedule.html</loc>
-    <lastmod>2023-03-16T18:19:02.169Z</lastmod>
+    <lastmod>2023-03-16T18:36:25.621Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/yabellini/ropensci-mentors/instructor_notes.html</loc>
-    <lastmod>2023-03-16T18:19:02.589Z</lastmod>
+    <lastmod>2023-03-16T18:36:26.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/yabellini/ropensci-mentors/LICENSE.html</loc>
+    <lastmod>2023-03-16T18:36:26.437Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/yabellini/ropensci-mentors/index.html</loc>
-    <lastmod>2023-03-16T18:19:02.909Z</lastmod>
+    <lastmod>2023-03-16T18:36:26.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/yabellini/ropensci-mentors/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2023-03-16T18:36:27.105Z</lastmod>
   </url>
 </urlset>
