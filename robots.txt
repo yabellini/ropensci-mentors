@@ -1,1 +1,1 @@
-Sitemap: https://github.com/ropensci-training/ropensci-mentors/sitemap.xml
+Sitemap: https://ropensci-training.github.io/ropensci-mentors/sitemap.xml
