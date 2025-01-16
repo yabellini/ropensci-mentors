@@ -10,6 +10,13 @@
     ]
   },
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "License",
+    "section": "",
+    "text": "License\nThis is a human-readable summary of (and not a substitute for) the license. Please see https://creativecommons.org/licenses/by-nc/4.0/legalcode for the full legal text.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license (CC-BY-NC-4.0).\nYou are free to:\n\nShare—copy and redistribute the material in any medium or format\nAdapt—remix, transform, and build upon the material.\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial—You may not use the material for commercial purposes.\n\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\nNotices:\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -20,11 +27,11 @@
     ]
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "License",
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Code of Conduct | Código de Conducta",
     "section": "",
-    "text": "License\nThis is a human-readable summary of (and not a substitute for) the license. Please see https://creativecommons.org/licenses/by-nc/4.0/legalcode for the full legal text.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license (CC-BY-NC-4.0).\nYou are free to:\n\nShare—copy and redistribute the material in any medium or format\nAdapt—remix, transform, and build upon the material.\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial—You may not use the material for commercial purposes.\n\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\nNotices:\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
+    "text": "Code of Conduct | Código de Conducta\nThis project is under rOpenSci Code of Conduct. You can access the last version in our webpage: https://ropensci.org/code-of-conduct/\nEste proyecto se rige por el Código de Conducta de rOpenSci. Puedes acceder a la última versión en nuestra página web: https://ropensci.org/codigo-de-conducta/"
   },
   {
     "objectID": "instructor_notes.html",
@@ -65,13 +72,6 @@
     "crumbs": [
       "Instructor Notes"
     ]
-  },
-  {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Code of Conduct | Código de Conducta",
-    "section": "",
-    "text": "Code of Conduct | Código de Conducta\nThis project is under rOpenSci Code of Conduct. You can access the last version in our webpage: https://ropensci.org/code-of-conduct/\nEste proyecto se rige por el Código de Conducta de rOpenSci. Puedes acceder a la última versión en nuestra página web: https://ropensci.org/codigo-de-conducta/"
   },
   {
     "objectID": "index.html",
