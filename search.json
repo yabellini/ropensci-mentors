@@ -1,37 +1,38 @@
 [
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "index.es.html",
+    "href": "index.es.html",
+    "title": "rOpenSci Champions Program. Mentorship Training and Orientation",
     "section": "",
-    "text": "This training use:\n\na set of slides,\na shared document with the exercises to solve during the class, to take shared notes, and share resources.\na feedback survey\n\nWe also provide mentors with tools for their roles:\n\nrOpenSci Champions Program Mentor Guidelines\nMeeting Templates\nMeeting report form\nMentor Monthly Charter",
-    "crumbs": [
-      "Materials"
-    ]
+    "text": "This course is part of the rOpenSci Champion Program’s mentor training and orientation.\nMentors play a vital role in the rOpenSci Champions Program by helping select the first cohort of Champions and advising and inspiring their mentees. Mentors will also connect their mentees to people, programs, and organizations; recommend, resources, readings, training, and experiences; and provide feedback on the mentee’s project.\nAfter this training, mentors will work with Champions to support them while develop their project, which can be one of the following options:\nMentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "License",
-    "section": "",
-    "text": "License\nThis is a human-readable summary of (and not a substitute for) the license. Please see https://creativecommons.org/licenses/by-nc/4.0/legalcode for the full legal text.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license (CC-BY-NC-4.0).\nYou are free to:\n\nShare—copy and redistribute the material in any medium or format\nAdapt—remix, transform, and build upon the material.\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial—You may not use the material for commercial purposes.\n\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\nNotices:\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
+    "objectID": "index.es.html#who-are-our-mentors",
+    "href": "index.es.html#who-are-our-mentors",
+    "title": "rOpenSci Champions Program. Mentorship Training and Orientation",
+    "section": "Who are our mentors?",
+    "text": "Who are our mentors?\nAll training is designed with some learner personas in mind. As a community, we also have personas to describe our members. When we build this training material, we think about this persona:\n\nFausti\n\nsent their packages to rOpenSci review process a couple of years ago. The process ensured the quality of their software and facilitated its publication in JOSS, which gave them academic credit. Also, getting the rOpenSci badge as an international organization helped other colleagues take their software products more seriously and as valid research products. Fausti volunteered to review packages in Spanish, and advised other colleagues to send their packages to review because their experience was very good. Fausti learned about the champions program and volunteered to mentor because they can give back to the community. It is also, a way to be trained as a mentor, which is a good skill for their academic role and to increase their contact network.\n\n\nDuring this training and orientation, Fausti will gain mentoring skills (active listening, effective questioning, giving feedback), will receive resources for their mentoring role such as the Mentors Guidelines, Meeting Templates and details of the logistics of the champions program."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "We run the training several times to allow mentors attend the best day and time for them according their timezone.\nHere is an example schedule with a morning training and 90 minutes long, starting at 9:00:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:10\nMentor tools. Program logistics and insfrastructure.\n\n\n10:10-10:20\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:20-10:25\nExercise: practice feedback\n\n\n10:25-10:30\nClosing\n\n\n\nHere is an example schedule with a morning training and 120 minutes long:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:05\nBreak away from the screen.\n\n\n10:05-10:20\nExercise: Practice GROW model mentoring your classmate (using exercise 1 results)\n\n\n10:20-10:35\nMentor tools. Program logistics and insfrastructure.\n\n\n10:35-10:45\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:45-10:55\nExercise: practice feedback\n\n\n10:55-11:00\nClosing",
-    "crumbs": [
-      "Schedule"
-    ]
+    "objectID": "index.es.html#learning-goals",
+    "href": "index.es.html#learning-goals",
+    "title": "rOpenSci Champions Program. Mentorship Training and Orientation",
+    "section": "Learning goals",
+    "text": "Learning goals\n\nWhat does a mentor do?\nHow can I actively listen to my Fellow?\nHow can I ask effective questions?\nHow do I give good feedback?\nHow do I set expectations for myself and the mentee?\nWhat are useful tools when guiding someone through a project?\nHow the program is organize?"
   },
   {
-    "objectID": "CODE_OF_CONDUCT.html",
-    "href": "CODE_OF_CONDUCT.html",
-    "title": "Code of Conduct | Código de Conducta",
-    "section": "",
-    "text": "Code of Conduct | Código de Conducta\nThis project is under rOpenSci Code of Conduct. You can access the last version in our webpage: https://ropensci.org/code-of-conduct/\nEste proyecto se rige por el Código de Conducta de rOpenSci. Puedes acceder a la última versión en nuestra página web: https://ropensci.org/codigo-de-conducta/"
+    "objectID": "index.es.html#sources",
+    "href": "index.es.html#sources",
+    "title": "rOpenSci Champions Program. Mentorship Training and Orientation",
+    "section": "Sources",
+    "text": "Sources\nWe use different sources to build this training and the material. We thank these organizations and their authors for sharing their material under an open license that we can reuse and remix.\n\nMozilla Open Leaders\nTeaching Tech Together\nThe Carpentries Instructor Training"
+  },
+  {
+    "objectID": "index.es.html#how-to-use-this-material",
+    "href": "index.es.html#how-to-use-this-material",
+    "title": "rOpenSci Champions Program. Mentorship Training and Orientation",
+    "section": "How to use this material",
+    "text": "How to use this material\nIf you want to use this material for teaching you can find Instructor notes with a script for the course, extra content for the slides and an explanation of the exercises.\nIn the material section, you can access the slides and other templates documents that you can copy, reuse and remix for your training.\n\nLicense\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 license (CC-BY-NC-4.0).\n\n\nHow to cite this work\n\nYanina Bellini Saibene. (2023, March 16). Mentorship Training and Orientation. rOpenSci Champions Program. Zenodo. https://doi.org/10.5281/zenodo.7742298"
   },
   {
     "objectID": "instructor_notes.html",
@@ -72,6 +73,75 @@
     "crumbs": [
       "Instructor Notes"
     ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "We run the training several times to allow mentors attend the best day and time for them according their timezone.\nHere is an example schedule with a morning training and 90 minutes long, starting at 9:00:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:10\nMentor tools. Program logistics and insfrastructure.\n\n\n10:10-10:20\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:20-10:25\nExercise: practice feedback\n\n\n10:25-10:30\nClosing\n\n\n\nHere is an example schedule with a morning training and 120 minutes long:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:05\nBreak away from the screen.\n\n\n10:05-10:20\nExercise: Practice GROW model mentoring your classmate (using exercise 1 results)\n\n\n10:20-10:35\nMentor tools. Program logistics and insfrastructure.\n\n\n10:35-10:45\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:45-10:55\nExercise: practice feedback\n\n\n10:55-11:00\nClosing",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "instructor_notes.es.html",
+    "href": "instructor_notes.es.html",
+    "title": "Instructors Notes",
+    "section": "",
+    "text": "Send a calendar invitation with the link to the meeting and a link to the shared notes.\nIn the shared notes file add the link to the meeting and the rest of the material (such as slides, videos, etc).\nMake a reminder the day before and one hour earlier.\n\n\n\n\n\n\nReminders\n\n\n\nUse the different channels you have. For example we use Slack and email. Try to use timezone-independent reminders like “See you all in 50 minutes, here (link)”"
+  },
+  {
+    "objectID": "instructor_notes.es.html#pre-training",
+    "href": "instructor_notes.es.html#pre-training",
+    "title": "Instructors Notes",
+    "section": "",
+    "text": "Send a calendar invitation with the link to the meeting and a link to the shared notes.\nIn the shared notes file add the link to the meeting and the rest of the material (such as slides, videos, etc).\nMake a reminder the day before and one hour earlier.\n\n\n\n\n\n\nReminders\n\n\n\nUse the different channels you have. For example we use Slack and email. Try to use timezone-independent reminders like “See you all in 50 minutes, here (link)”"
+  },
+  {
+    "objectID": "instructor_notes.es.html#training",
+    "href": "instructor_notes.es.html#training",
+    "title": "Instructors Notes",
+    "section": "Training",
+    "text": "Training\n\nTime to connect.\nStart the meeting a few minutes early, allow people to enter, and check the video and audio. Be sure they can listen and see you. Let them know it is ok if they don’t turn on their camera. Share the document you will be using as shared notes on the chat.\nWhen everyone arrives, remember the rules of participation, like the code of conduct and how to use it. Mention a short agenda for the day:\n\nWe will see tools for your role as mentor and logistic about the program. We will also shared resources we build for you, to help you with your role.\n\n\n\n\n\n\n\nShared document\n\n\n\nPeople can’t access the previous chat when they join a meeting. So share the doc one last time when all the attendees are there. Also, share the doc before each exercise to be sure all students can access it.\n\n\n\n\n\n\n\n\nRecording\n\n\n\nIf you will record the sesion, this is a good time to ask for permission. Be clear on how you will use the recording and with whom you will share it.\n\n\n\n\nStart the training\nYou can start with the first exercise: Mentorship Reflection. (you can decide if you want to share the slides with the exercises, the shared doc with the exercises, or not share the screen).\n\nWe will start with an exercise: Mentorship Reflection. Please think of an experience you’ve had as a mentor or being mentored. Use the shared doc to answer the questions next to your name (in alphabetical order).\n\nRead the questions aloud and give some more examples on what to think to answer:\n\nWhat went well / what was helpful?” “What was that relationship like? How did it help you? What is one helpful thing your mentor/mentee said/did?\nWhat didn’t work? What you needed, and your mentor/mentee couldn’t help you? or didn’t understand you?\nThink of a problem you’d like mentoring on right now.\n\n\n\n\n\n\n\nTime for activities\n\n\n\nAlways clarify at the beggining of the activity how much time we have for doing it. “We will use 10 minutes for this exercise”, “We will take a 10 minutes break”\n\n\nGive them one-two minutes to write in silence. Then you can read some of the answers aloud or add some comments on the doc in silence. Encourage them to read their classmate’s answers and do comments.\n\n\nMentors roles. Mentorship skills\nYou continue with slide three about the mentors’ roles.\n\nWhat do mentors do? Mentors advise and inspire. How do you do this?. Recommend resources, readings, training, experiences. Feedback to consider. Connect to people, programs, and organizations.\n\nYou should give examples of each activity related to the type of project they will be mentoring. On slide four, you summarise the mentorship skills we will see today:\n\nActive Listening, Effective Questioning, Giving Feedback.\n\nShow slide five now about active listening. Before showing some bullets point, you start with a question:\n\nPlease, answer on the chat or unmute yourself and answer: What is active listening? How active listening looks like?\n\nGive them time to think and share. Read aloud the chat if someone shares in writing form. Iterate on what they said. They will be able to mention helpful information you can note when you show the bullet point about active listening. For example, someone can share that active listening is when people ask good and insightful questions. Or when they pay attention to you (they aren’t watching their phone or answering their email).\nNow follows with slide six about effective questioning. Before showing effective questioning concepts and tips, make the questions:\n\nWhy questions are important in mentoring? What kind of questions are helpful?. Please, answer on the chat or unmute yourself and answer\n\nGive them time to think and share. Read aloud the chat if someone shares in writing form. Give priority to the people that don’t participate in the previous question. Iterate on what they said. Use their answer when sharing the bullets point on the slide.\nAs the final part of this section, you go to slide seven about giving feedback. Here we have two prompt questions:\n\nWhat happens if you only give positive feedback? As we did previously, please share your thoughts in the chat or by speaking up.\n\nAfter two or three of them share their thoughts, you can ask the second question:\n\nWhat happens if we provide only negative feedback?\n\nGive them time to think and share. Read aloud the chat if someone shares in writing form.\nNow show the cartoon about feedback and the bullets point on the slide. One more time use their answer to give examples or support this points. Mention that:\n\nFeedback can be the way you provide advice. It also allows everyone to grow.\n\n\nThe source material for good feedback is built on the above two skills, active listening and effective questioning.\n\nThe following slide (number eight) present Meetings.\n\nMeetings are one of the places where mentoring will happen and where mentors will use the skill we mention.\n\nNote we create templates for meeting as scaffolding for their mentorship task. And then introduce the GROW model.\n\n\nMentor tools. GROW Model.\nUse slides nine and ten to introduce the model and then you do the second exercise.\n\nYou will work in groups for the next exercise. You will have 10 minutes to watch the video linked in the shared doc. It is an example using the GROW model. The idea is you try to identify the steps of the model. You can re-watch the video or stop, answer, and then continue. Please use the shared doc on your group space to write your questions._\nWhen you finish, we will discuss your answer with the whole group.\n\nYou can create random groups, with no more than 3-4 people in each group. Read their answer during the exercise and choose some groups to share with the whole class. Choose each group because they add something interesting or different to the discussion. If you have a few groups, give all of them a chance to share their insight.\n\n\n\n\n\n\nNote\n\n\n\nIf you are teaching the 120 minutes version of the trainig it is time of a 5/10 minutes break away from the screen.\n\n\n\n\n\n\n\n\nExercise: Practice GROW model mentoring your classmate\n\n\n\nThis in an extra exercise for the 120 minutes version of the training. You will find the instruction on the 2.b exercise on the shared doc. If you are teaching the 90 minutes trainig, then you should remove the 2.b point on the shared doc.\n\n\nFinished this section with slide_ _twelve__ with a summary for GROW model.\n\n\nMentor tools. Program logistics\nThe next session introduces the Mentors Guidelines and others infrastructure and tools we developed for the champions program.\nShared slide thirteen, mention each tool, and then show the tools. The most important one is the Mentors Guidelines. You can click on the slides to open the document and go through it, showing each section, the list of resources, and the information we gather there for them.\nYou can click on the link to the other resources inside the guidelines to show them: be sure to show the google drive and the meeting templates. Finally, you can ask if they want to check the Slack channels.\n\n\n\n\n\n\nChecking for Access\n\n\n\nThis is an excellent time to check for access to these resources: are all in Slack and the proper channels? Do you have access to google drive and google docs? Can you copy the meeting templates and access the meeting report form?\n\n\nNow it is time for the next exercise. With the prompt “Are you ready for mentoring?” we provide space for comments, questions, and clarifications mentors need. Allow them to speak or write on the shared document or the chat. If they ask on the chat, copy those comments on the shared doc. These questions can be useful for the other cohorts. The time for this activity is 10 minutes, but take more minutes if they have good questions about the mentoring role or the program.  \nThe final exercise calls mentors to practice giving constructive feedback by filling out an anonymous feedback survey about the training. Share the link to the form on the chat or mention they can access the link on the shared note. Give 5 minutes to fill out the survey.\n\n\n\n\n\n\nChecking completion\n\n\n\nFor this final exercise, you can also ask students to write on the chat “Done!” or “Finish!” or similar when they finish. This way, you will know, and you can end the activity when all are done. Some times this can mean before the time allocated for the exercise."
+  },
+  {
+    "objectID": "instructor_notes.es.html#post-training",
+    "href": "instructor_notes.es.html#post-training",
+    "title": "Instructors Notes",
+    "section": "Post-training",
+    "text": "Post-training\nAfter the training, send a message (email, Slack) thanking those who attended and re-sharing essential resources:\n\nShared document (which has links to the slides, mentoring guide, meeting templates, etc.).\nRecording of the meeting (in case you have recorded it).\nThe feedback survey (for a second chance to fill).\n\nCheck the feedback survey and identify one or two points to improve for the next training iteration."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Code of Conduct | Código de Conducta",
+    "section": "",
+    "text": "Code of Conduct | Código de Conducta\nThis project is under rOpenSci Code of Conduct. You can access the last version in our webpage: https://ropensci.org/code-of-conduct/\nEste proyecto se rige por el Código de Conducta de rOpenSci. Puedes acceder a la última versión en nuestra página web: https://ropensci.org/codigo-de-conducta/"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "This training use:\n\na set of slides,\na shared document with the exercises to solve during the class, to take shared notes, and share resources.\na feedback survey\n\nWe also provide mentors with tools for their roles:\n\nrOpenSci Champions Program Mentor Guidelines\nMeeting Templates\nMeeting report form\nMentor Monthly Charter",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "schedule.es.html",
+    "href": "schedule.es.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "We run the training several times to allow mentors attend the best day and time for them according their timezone.\nHere is an example schedule with a morning training and 90 minutes long, starting at 9:00:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:10\nMentor tools. Program logistics and insfrastructure.\n\n\n10:10-10:20\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:20-10:25\nExercise: practice feedback\n\n\n10:25-10:30\nClosing\n\n\n\nHere is an example schedule with a morning training and 120 minutes long:\n\n\n\n\n\n\n\n\nTopic\n\n\n\n\n8:50-9:00\nTime to connect. Check audio+video\n\n\n9:00- 9:05\nSharing rules of participation. Code of Conduct. Sharing materials\n\n\n9:05-9:15\nExercise: Mentorship Reflection. Think of an experience you’ve had as a mentor or being mentored\n\n\n9:15-9:25\nMentors roles. Mentorship skills\n\n\n9:25-9:40\nMentor tools. GROW Model.\n\n\n9:40-9:55\nExercise: Work in group with the GROW Model\n\n\n9:55-10:05\nBreak away from the screen.\n\n\n10:05-10:20\nExercise: Practice GROW model mentoring your classmate (using exercise 1 results)\n\n\n10:20-10:35\nMentor tools. Program logistics and insfrastructure.\n\n\n10:35-10:45\nExercise: Are you ready for mentor? Question, Comments\n\n\n10:45-10:55\nExercise: practice feedback\n\n\n10:55-11:00\nClosing"
+  },
+  {
+    "objectID": "materials.es.html",
+    "href": "materials.es.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "This training use:\n\na set of slides,\na shared document with the exercises to solve during the class, to take shared notes, and share resources.\na feedback survey\n\nWe also provide mentors with tools for their roles:\n\nrOpenSci Champions Program Mentor Guidelines\nMeeting Templates\nMeeting report form\nMentor Monthly Charter"
   },
   {
     "objectID": "index.html",
@@ -122,5 +192,12 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "License",
+    "section": "",
+    "text": "License\nThis is a human-readable summary of (and not a substitute for) the license. Please see https://creativecommons.org/licenses/by-nc/4.0/legalcode for the full legal text.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license (CC-BY-NC-4.0).\nYou are free to:\n\nShare—copy and redistribute the material in any medium or format\nAdapt—remix, transform, and build upon the material.\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNonCommercial—You may not use the material for commercial purposes.\n\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\nNotices:\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
   }
 ]
